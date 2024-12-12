@@ -1,0 +1,2 @@
+img)
+plt.show() 

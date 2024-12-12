@@ -1,0 +1,18 @@
+Write in detail how to train a GAN model for image to image Generation
+write the the main item and its names in 1 line like 
+\item 'X'  encoded as Solid , Ground
+write a code to import an image in latex
+I  want you to write 3 paragraphs to include the following :
+What type of data is used to train GAN models for image to image generation. The second paragraph should tell that i explored the web and collected data from different github repository and finally the final paragraph should tell that i encoded the variables using different symbols and using their ASCII values
+Write in some detailed terms for data collection of mario game levels from the internet
+can you list down any dataset that can be used to train video game environments using GANS 
+I want you to write an introduction for my research paper on the following topic :
+"Generative models for New Video Game Environments"
+It should be descriptive .
+Now, I want you to write in detail how we can use Diffusion for the same process
+Now, in the same manner, i want you to write how we can use GANs for this purpose
+While VAEs offer exciting possibilities for procedural content
+I am basically writing a latex document. So i want you to also include some equations using the latex format please . It would be a great help
+Now I want you to Explain How VAE's Can be used for Procederal Content Generation especially for Game Environments .
+Can you make it more longer please
+I want you to write an introduction for my research paper on the following topic : "Generative models for New Video Game Environments" It should be descriptive .
